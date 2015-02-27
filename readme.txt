@@ -1,4 +1,4 @@
 Hello Git
 
 Hello again
-Added some new information
+Added some new informationFeature1
